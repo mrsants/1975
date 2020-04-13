@@ -1,0 +1,9 @@
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/marcelobatista/Documents/balta.io/1975/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
